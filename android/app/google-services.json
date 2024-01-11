@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946769795167",
+    "project_id": "bunyi-273c8",
+    "storage_bucket": "bunyi-273c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946769795167:android:5c0ba1939b101be75d63ea",
+        "android_client_info": {
+          "package_name": "com.example.bunyicake.bunyicake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946769795167-h6elhc0g0dolkl8ag6lq1ul9rvsihlvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bunyicake.bunyicake",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "946769795167-u85ksa78jv4537qijmd2j3jukroblgrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQi8bEAewpc8YtYAmwOmdYQD6C2y4gciE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946769795167-u85ksa78jv4537qijmd2j3jukroblgrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
